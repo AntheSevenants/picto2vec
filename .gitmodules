@@ -1,3 +1,6 @@
 [submodule "plk2xml"]
 	path = plk2xml
 	url = https://github.com/AntheSevenants/plk2xml.git
+[submodule "anthevec"]
+	path = anthevec
+	url = https://github.com/AntheSevenants/anthevec.git
